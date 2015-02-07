@@ -146,7 +146,10 @@
             <p>Written in Latine by the Right Honorable FRANCIS Lo. <hi>Verulam,</hi> Vis-Count S<hi rend="sup">t</hi>. ALBAN.</p>
             <p>
                <hi>LONDON, Printed by</hi> Iohn Haviland for William Lee, <hi>and</hi> Humphrey Mosley. 1638.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:610:3"/>
+               <figure/>
+            </p>
          </div>
          <div type="to_the_reader">
             <pb facs="tcp:610:3"/>
